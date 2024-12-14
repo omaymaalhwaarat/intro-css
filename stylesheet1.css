@@ -1,0 +1,14 @@
+.my-parent{
+    position: relative;
+}
+.my-img{
+position: fixed;
+height: 400px;
+right: 0%;
+border: 1px solid;
+background-color: white;
+overflow: hidden;
+}
+.div-pic2{
+  
+}

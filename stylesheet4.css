@@ -1,0 +1,22 @@
+.div-all{
+    clear: both;
+    display: block;
+}
+
+.even{
+display: none;
+
+}
+.odd{
+    background-color: red;
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+    border: 2px solid;
+    float: left; 
+}
+p{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}

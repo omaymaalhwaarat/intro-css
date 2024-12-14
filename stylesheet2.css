@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(248, 118, 255);
+}
+.div1par1{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(239, 235, 235);
+    overflow: hidden;
+    margin: 3px;
+    display: inline-block;
+ 
+}
+.par1{
+    padding: 0px;
+    margin: 0px;
+}
+
+.div2-scroll{
+    border: 3px solid black;
+    border-left: 0px;
+    padding: 10px;
+    height: 100px;
+    overflow: auto;
+    font-weight: bold;
+
+}
+
+  
+ 

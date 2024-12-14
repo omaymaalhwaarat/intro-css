@@ -1,0 +1,19 @@
+.all-div{
+    width: 100%;
+    overflow: hidden;
+}
+.yellow{
+    float: left;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border: 2px solid black;
+}
+.green{
+    float: left;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}

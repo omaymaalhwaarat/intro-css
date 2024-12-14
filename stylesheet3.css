@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(255, 255, 154);
+}
+.div-all{
+    width: 1000px;
+    margin: auto;
+    position: relative;
+}
+.layout{
+    background-color: rgb(234, 234, 24);
+    height: 100px;
+}
+.div-pali{
+  position: static;
+
+}
+.myparagr{
+    background-color: white;
+    width:800px ;
+    display: inline-block;
+    
+}
+.my-list{
+    background-color: rgb(189, 187, 187);
+    width:200px ;
+    float: right;
+    height: 970px;
+}
+.footer{
+    background-color: rgb(111, 110, 110);
+    height: 30px;
+    
+}
+.fopara{
+    text-align: center;
+}
+
+ 
